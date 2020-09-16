@@ -20,7 +20,7 @@
 
 - [ ] [oub-remix](https://github.com/RoyalBoy69/oub-remix)
 
-![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
+![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=royalboy69&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalBoy69&hide=dockerfile&theme=dark)](https://github.com/RoyalBoy69)
 
