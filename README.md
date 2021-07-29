@@ -10,7 +10,7 @@
 ```
 >Noob Learner:D
 >Fan of Python🐍
->Love Gaming:PUBG,Minecraft)
+>Love Gaming:PUBG,BGMI,,Minecraft)
 ```
 >### KangerXD
 
