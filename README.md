@@ -16,9 +16,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=RoyalBoy69" alt="RoyalBoy69" />
 
-### CHECK-OUT🙂:
-
-- [ ] [oub-remix](https://github.com/RoyalBoy69/oub-remix)
 
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=royalboy69&show_icons=true&theme=radical)
 
